@@ -1,0 +1,37 @@
+This is a list of potential data interoperability resources, ontologies and standards across may sectors. 
+
+
+Links
+https://github.com/dstl/IES4/
+https://github.com/EuroCRIS/CERIF-DataModel
+https://github.com/alan-turing-institute/data-safe-haven
+https://github.com/icebreakerone/stream-data-standards
+https://github.com/gchq/HQDM
+https://github.com/jamrce/hqdmFramework
+https://www.dmtf.org/standards/cim/
+https://zuhlke-wiki.notion.site/The-Consumer-Energy-Data-Consent-Project-43d19386a5554c27abfd4b023c3efd96
+https://zuhlke-wiki.notion.site/Contextualised-Energy-Data-Journey-c1eeb42856774c74936730867e028a93
+https://mdep.smdh.uk/
+https://dftdigital.blog.gov.uk/2017/04/03/roads-data-sharing-in-west-midlands/
+https://github.com/BirminghamRealTime/UTMCTools
+https://aistandardshub.org/ai-standards-search/
+https://satre-specification.readthedocs.io/en/stable/
+https://github.com/usnistgov/iso15926/tree/master
+https://www.iso.org/standard/81230.html
+https://pages.bsigroup.com/the-value-of-data-report
+https://app.mural.co/t/cpi2542/m/cpi2542/1694608668033/92557ba35b8a14f62da89558faef21bfb19ddcb6?sender=ub54a2842bd440b44e8695578
+https://monai.io/
+https://raildata.org.uk/
+https://github.com/openraildata
+https://www.sdruk.ukri.org/
+https://www.sdruk.ukri.org/2024/03/21/smart-data-survey-now-open/
+https://www.hdruk.ac.uk/
+https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#missions
+Nuar
+https://openconnectivity.org/ (Brian Bishop)
+https://metaverse-standards.org/ (jessica@visioninglab.com)
+https://www.uktre.org/en/latest/
+https://www.drcf.org.uk/about-us
+https://pages.bsigroup.com/the-value-of-data-report#:~:text=The%20report%3A,industry%2C%20government%20and%20standards%20bodies
+https://github.com/ncbo/ontologies_linked_data
+https://github.com/open62541/open62541
